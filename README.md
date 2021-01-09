@@ -1,2 +1,2 @@
 # rust-cli-boilerplate
-Boilerplate for create in Rust CLI tools
+Boilerplate to create CLI tools in Rust
